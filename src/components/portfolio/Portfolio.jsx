@@ -1,8 +1,8 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
+import IMG1 from '../../assets/portfolio1.avif'
+import IMG2 from '../../assets/portfolio2.avif'
+import IMG3 from '../../assets/portfolio3.avif'
 import Resume from '../../assets/resume.pdf'
 
 const Portfolio = () => {
@@ -17,10 +17,10 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG3} alt='UAV Forge' />
           </div>
-          <h3>Engineering Project UAV Forge: Computer Vision Team Lead and Member</h3>
+          <h3>Engineering Project UAV Forge: Computer Vision Team Lead</h3>
           <div className="portfolio__item-cta">
             <a href='https://github.com/uci-uav-forge/uavf_2023' className='btn'>Github</a>
-            <a href='https://sites.uci.edu/uavforge/' className='btn btn-primary' target='_blank' rel='noopener noreferrer'>Learn More</a>
+            <a href='https://sites.uci.edu/uavforge/' className='btn btn-primary' target='_blank' rel='noopener noreferrer'>Team Website</a>
           </div>
         </article>
 
@@ -41,7 +41,7 @@ const Portfolio = () => {
           <h3>Waitless: HackUCI Best Social Good Hack & Best Product Pitch</h3>
           <div className="portfolio__item-cta">
             <a href='https://github.com/limenilbuz/hackuci2022-waitless' className='btn'>Github</a>
-            <a href='https://devpost.com/software/waitless-cy41hl' className='btn btn-primary' target='_blank' rel='noopener noreferrer'>Learn More</a>
+            <a href='https://devpost.com/software/waitless-cy41hl' className='btn btn-primary' target='_blank' rel='noopener noreferrer'>Project Website</a>
           </div>
         </article>
 
