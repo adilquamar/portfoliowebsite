@@ -24,7 +24,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>6+ Months in Industry</small>
+              <small>6+ Months of Internship Exprience in Industry</small>
             </article>
 
             <article className='about__card'>
@@ -41,7 +41,8 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere eos facilis repellendus maxime repudiandae enim, hic quod delectus quo porro aliquid, ipsa magnam iusto, minima inventore. Illo omnis maiores eligendi!
+            Hey there! My name is Adil Quamar and I am recent graduate of University of California, Irvine having studied Computer Science and Engineering.
+            Previously I was an Software Development Engineering Intern at Amazon Lab 126 for the summer of '21 and '22. I was also part of my UCI's Engineering Project Team UAV Forge where I built and programmed autonomous drones as the Computer Vision Team Lead.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
