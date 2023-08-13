@@ -42,7 +42,12 @@ const About = () => {
 
           <p>
             Hey there! My name is Adil Quamar and I am recent graduate of University of California, Irvine having studied Computer Science and Engineering.
-            Previously I was an Software Development Engineering Intern at Amazon Lab 126 for the summer of '21 and '22. I was also part of my UCI's Engineering Project Team UAV Forge where I built and programmed autonomous drones as the Computer Vision Team Lead.
+            Previously I was a Software Development Engineering Intern at 
+            <b style={{color: "#4db5ff"}}> Amazon Lab 126 </b> 
+            for the summer of '21 and '22. 
+            I was also part of UCI's Engineering Project Team UAV Forge where I built and programmed 
+            <b style={{color: "#4db5ff"}}> autonomous drones </b> as the 
+            <b style={{color: "#4db5ff"}}> Computer Vision Team Lead </b>.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
