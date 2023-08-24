@@ -41,9 +41,12 @@ const About = () => {
           </div>
 
           <p>
-            Hey there! My name is Adil Quamar and I am recent graduate of University of California, Irvine having studied Computer Science and Engineering.
+            Hi there! I graduated from 
+            <b style={{color: "#4db5ff"}}> University of California, Irvine </b>
+            in June of 2023 where I studied 
+            <b style={{color: "#4db5ff"}}> Computer Science and Engineering</b>.
             Previously I was a Software Development Engineering Intern at 
-            <b style={{color: "#4db5ff"}}> Amazon Lab 126 </b> 
+            <b style={{color: "#4db5ff"}}> Amazon </b> 
             for the summer of '21 and '22. 
             I was also part of UCI's Engineering Project Team UAV Forge where I built and programmed 
             <b style={{color: "#4db5ff"}}> autonomous drones </b> as the 
